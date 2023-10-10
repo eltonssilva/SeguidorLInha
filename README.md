@@ -1,6 +1,6 @@
 # SeguidorLInha
 
-* Projeto de um robozinho seguidor de linha
+* Projeto de um robozinho seguidor de linha.
 
 
 
