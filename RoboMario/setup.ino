@@ -1,5 +1,5 @@
 
-
+//DEFINIÇÕES MOTOR
 void config_motor(){
 
 pinMode(motor_d_1, OUTPUT);
